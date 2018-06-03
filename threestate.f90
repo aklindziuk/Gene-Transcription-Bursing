@@ -18,8 +18,8 @@
 ! -"histogram.dat" (n, probibility dens) probibility density for each n, summing 
 !  over m=1, m=2, m=3 for each n
 !
-! To run: gfortran threestate_testcopy.f90 -o threestate_testcopy.exe
-! To execute: ./threestate_testcopy.exe   
+! To run: gfortran threestate.f90 -o threestate.exe
+! To execute: ./threestate.exe   
 !---------------------------------
 
 
