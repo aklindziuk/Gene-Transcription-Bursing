@@ -79,6 +79,10 @@ time = 0.0
 		call random_number (rand1)
 		call random_number (rand2)
 		
+		if (rand1 == 0.0) then
+		call random_number(rand1)
+		end if 
+		
 		if ( n == 0) then
 			if ( m == 1) then
 
