@@ -16,7 +16,7 @@ call cpu_time(start)
 ! I
 a = 100
 b = 1
-kn = .1
+kn = .01
 kf = .1
 
 t_max = 100000
@@ -183,5 +183,3 @@ print*, 'check norm time', dnt
 
 
 end program twostate_ssa
-
-
